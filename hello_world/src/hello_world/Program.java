@@ -9,7 +9,7 @@ public class Program {
 	
 	System.out.println(Calculator.mean(test));
 		
-		
+	System.out.println("The var is: " + Calculator.var(test));
 		
 	}
 
